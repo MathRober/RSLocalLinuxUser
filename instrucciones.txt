@@ -1,0 +1,17 @@
+
+PAra ver el badget buitl status icon
+![Build status](https://ci.appveyor.com/api/projects/status/cgo827o4f74lmf9w/branch/master?svg=true)
+
+He also wrapped that in a link to the build status page.
+
+https://ci.appveyor.com/project/kevinmarquette/PSGraph/branch/master
+
+
+
+
+
+mkdocs.yml
+Up until this point, I have worked with or have a general understanding of these components already. 
+This file was new to me. At first glance, it looks like it builds documentation out of markdown files. 
+I like that idea of that. I think I have enough pieces on my plate, but this does interest me. 
+I’ll loop back on this one in the future.
